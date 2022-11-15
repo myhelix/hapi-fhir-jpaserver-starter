@@ -1,3 +1,8 @@
+| :exclamation:  This repository is no longer maintained and may contain vulnerable code. If you wish to revive it, please request a security review.   |
+|-----------------------------------------|
+
+
+
 # HAPI-FHIR Starter Project
 
 This project is a complete starter project you can use to deploy a FHIR server using HAPI FHIR JPA.
